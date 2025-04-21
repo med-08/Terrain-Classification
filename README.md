@@ -46,4 +46,5 @@ The dataset contains **799 images per class** and is structured for use in image
 ## Technologies and Tools
 
 - **Languages**: Python
-- **Libraries**: TensorFlow / Keras, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn 
+- **Libraries**: TensorFlow / Keras, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **PLatform**: Kaggle
